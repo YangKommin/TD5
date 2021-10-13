@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\main.cpp(28,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\main.cpp(38,6): warning C4101: 'val' : variable locale non référencée
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\main.cpp(37,7): warning C4101: 'win' : variable locale non référencée
+  TDProg4.vcxproj -> C:\Users\k.yang\source\repos\Ben\TDProg5\Debug\TDProg4.exe
