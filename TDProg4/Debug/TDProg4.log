@@ -1,5 +1,36 @@
-﻿  main.cpp
-C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\main.cpp(28,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
-C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\main.cpp(38,6): warning C4101: 'val' : variable locale non référencée
-C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\main.cpp(37,7): warning C4101: 'win' : variable locale non référencée
-  TDProg4.vcxproj -> C:\Users\k.yang\source\repos\Ben\TDProg5\Debug\TDProg4.exe
+﻿  arme.cpp
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\armure.h(8,19): error C3646: 'effetArmure' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\armure.h(8,19): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\consommable.h(8,18): error C3646: 'effetConso' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\consommable.h(8,18): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\heros.h(9,16): error C3646: 'HerosArme' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\heros.h(9,16): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  armure.cpp
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\arme.h(8,17): error C3646: 'effetArme' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\arme.h(8,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\consommable.h(8,18): error C3646: 'effetConso' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\consommable.h(8,18): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\heros.h(10,20): error C3646: 'HerosArmure' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\heros.h(10,20): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  consommable.cpp
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\arme.h(8,17): error C3646: 'effetArme' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\arme.h(8,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\armure.h(8,19): error C3646: 'effetArmure' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\armure.h(8,19): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  effet.cpp
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\arme.h(8,17): error C3646: 'effetArme' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\arme.h(8,17): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\armure.h(8,19): error C3646: 'effetArmure' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\armure.h(8,19): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\consommable.h(8,18): error C3646: 'effetConso' : spécificateur de substitution inconnu
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\consommable.h(8,18): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+  heros.cpp
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\effet.h(10,7): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\effet.h(10,7): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\effet.h(10,17): error C2238: jetons inattendus avant ';'
+  main.cpp
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\effet.h(10,7): error C2143: erreur de syntaxe : absence de ';' avant '*'
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\effet.h(10,7): error C4430: spécificateur de type manquant - int est pris en compte par défaut. Remarque : C++ ne prend pas en charge int par défaut
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\effet.h(10,17): error C2238: jetons inattendus avant ';'
+C:\Users\k.yang\source\repos\Ben\TDProg5\TDProg4\main.cpp(32,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Génération de code en cours...
